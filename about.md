@@ -34,7 +34,7 @@ For any inquiries or to learn more about our services, feel free to reach out to
 - **Email:** [info@penzigo.com](mailto:info@penzigo.com)
 
 
-Thank you for choosing Angaddi as your billing partner. We look forward to serving you!
+Thank you for choosing AngadiApp as your billing partner. We look forward to serving you!
 
 
 

@@ -23,6 +23,24 @@ AngadiApp seamlessly integrates with the Bill Machine hardware, allowing vendors
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## How AngadiApp Works
 
 AngadiApp is designed with simplicity in mind. Follow these easy steps to get started:
@@ -40,19 +58,19 @@ AngadiApp is designed with simplicity in mind. Follow these easy steps to get st
 Enhance your billing experience with integrated Bill Machine hardware, available for purchase on leading e-commerce platforms like Amazon. Whether you run a small corner store or a large retail outlet, find the perfect billing machine to suit your needs:
 
 ### Small Shop Billing Machine
-
+<!-- ![Small Shop Billing Machine](/small_shop_billing_machine.webp) -->
 <img src="\.vitepress\assets\small_shop_billing_machine.webp" width="200" height="100">
 
 Compact and easy to use, this billing machine is ideal for businesses with limited space. Purchase now on Amazon.
 
 ### Medium Shop Billing Machine
-
+<!-- ![Medium Shop Billing Machine](/billing_machine_mediumsize.jpg) -->
 <img src="\.vitepress\assets\billing_machine_mediumsize.jpg" width="200" height="100">
 
 Designed for medium-sized shops, this billing machine offers advanced features for efficient billing. Available for purchase on Amazon.
 
 ### Large Retail Outlet Billing Machine
-
+<!-- ![Large Retail Outlet Billing Machine](/billing_machine_largesize.jpg) -->
 <img src="\.vitepress\assets\billing_machine_largesize.jpg" width="200" height="100">
 
 Designed for high-volume transactions, our large retail outlet billing machine ensures smooth operations even during peak hours.Get yours today on Amazon.
@@ -93,3 +111,136 @@ Have questions or need support? Reach out to our friendly team:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+# Blogs
+
+This page demonstrates some of the built-in markdown extensions provided by VitePress.
+
+## Syntax Highlighting
+
+VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+
+**Input**
+
+````md
+```js{4}
+export default {
+  data () {
+    return {
+      msg: 'Highlighted!'
+    }
+  }
+}
+```
+````
+
+**Output**
+
+```js{4}
+export default {
+  data () {
+    return {
+      msg: 'Highlighted!'
+    }
+  }
+}
+```
+
+## Custom Containers
+
+**Input**
+
+```md
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning
+This is a warning.
+:::
+
+::: danger
+This is a dangerous warning.
+:::
+
+::: details
+This is a details block.
+:::
+```
+
+**Output**
+
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning
+This is a warning.
+:::
+
+::: danger
+This is a dangerous warning.
+:::
+
+::: details
+This is a details block.
+:::
+
+## More
+
+Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown). -->

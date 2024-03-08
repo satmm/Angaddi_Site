@@ -1,4 +1,4 @@
-# User Guide
+### User Guide
 
 Welcome to the AngadiApp User Guide! Here, we'll provide you with a comprehensive overview of how to effectively use the AngadiApp app to manage your shop's inventory and streamline your billing process.
 

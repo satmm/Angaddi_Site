@@ -42,4 +42,4 @@ This section applies to all users.
 
 3.1.2 An indicative list of information that Penzigo may require you to provide to enable your use of the Services is provided in the Schedule annexed to this Privacy Policy.
 
-3.1.3 All the information provided to Penzigo by a User, including Personal Information or any Sensitive Personal Data or Information 
+3.1.3 All the information provided to Penzigo by a User, including Personal Information or any Sensitive Personal Data or Information (

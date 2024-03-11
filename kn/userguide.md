@@ -9,7 +9,7 @@
 ## ವಸ್ತುಗಳನ್ನು ಸೇರಿಸುವುದು ಹೇಗೆ <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
 </div>
 
 ಅಂಗಡಿಆಪ್ನೊಂದಿಗೆ ನಿಮ್ಮ ಅಂಗಡಿಯ ದಾಸ್ತಾನುಗಳಿಗೆ ವಸ್ತುಗಳನ್ನು ಸೇರಿಸುವುದು ತ್ವರಿತ ಮತ್ತು ಸುಲಭ. ಕೇವಲ ಈ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿಃ
@@ -23,7 +23,7 @@
 ## ಬಿಲ್ಗಳನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುವುದು <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
 </div>
 
 
@@ -40,7 +40,7 @@
 ## ಬಿಲ್ ಅನ್ನು ಮುದ್ರಿಸುವುದು ಹೇಗೆ <br>
 
 
-<img src="\.vitepress\assets\7.jpeg" width="250" height="50">
+<img src="/.vitepress/assets/7.jpeg" width="250" height="50">
 
 ಪಾವತಿ ಮುಗಿದ ನಂತರ ಪ್ರಿಂಟರ್ ಐಕಾನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ ಸಾಧನವನ್ನು ಬಿಲ್ಲಿಂಗ್ ಯಂತ್ರದೊಂದಿಗೆ ಜೋಡಿಸಿ. ಅಂತಿಮವಾಗಿ ನೀವು ಬಿಲ್ ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಿ. 
 

@@ -41,19 +41,19 @@ Enhance your billing experience with integrated Bill Machine hardware, available
 
 ### Small Shop Billing Machine
 
-<img src="\.vitepress\assets\small_shop_billing_machine.webp" width="200" height="100">
+<img src="/.vitepress/assets/small_shop_billing_machine.webp" width="200" height="100">
 
 Compact and easy to use, this billing machine is ideal for businesses with limited space. Purchase now on Amazon.
 
 ### Medium Shop Billing Machine
 
-<img src="\.vitepress\assets\billing_machine_mediumsize.jpg" width="200" height="100">
+<img src="/.vitepress/assets/billing_machine_mediumsize.jpg" width="200" height="100">
 
 Designed for medium-sized shops, this billing machine offers advanced features for efficient billing. Available for purchase on Amazon.
 
 ### Large Retail Outlet Billing Machine
 
-<img src="\.vitepress\assets\billing_machine_largesize.jpg" width="200" height="100">
+<img src="/.vitepress/assets/billing_machine_largesize.jpg" width="200" height="100">
 
 Designed for high-volume transactions, our large retail outlet billing machine ensures smooth operations even during peak hours.Get yours today on Amazon.
 

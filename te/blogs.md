@@ -39,13 +39,13 @@
 
 ### స్మాల్ షాప్ బిల్లింగ్ మెషిన్ 
 
-<img src="\.vitepress\assets\small_shop_billing_machine.webp" width="200" height="100">
+<img src="/.vitepress/assets/small_shop_billing_machine.webp" width="200" height="100">
 
 కాంపాక్ట్ మరియు ఉపయోగించడానికి సులభం, ఈ బిల్లింగ్ యంత్రం పరిమిత స్థలం ఉన్న వ్యాపారాలకు అనువైనది. ఇప్పుడు అమెజాన్లో కొనుగోలు చేయండి.
 
 ### మీడియం షాప్ బిల్లింగ్ మెషిన్
 
-<img src="\.vitepress\assets\billing_machine_mediumsize.jpg" width="200" height="100">
+<img src="/.vitepress/assets/billing_machine_mediumsize.jpg" width="200" height="100">
 
 మధ్య తరహా దుకాణాల కోసం రూపొందించిన ఈ బిల్లింగ్ యంత్రం సమర్థవంతమైన బిల్లింగ్ కోసం అధునాతన లక్షణాలను అందిస్తుంది. అమెజాన్లో కొనుగోలు చేయవచ్చు.
 

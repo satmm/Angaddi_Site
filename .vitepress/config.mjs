@@ -128,7 +128,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/assets/logo.png',
     search: {
       provider: 'local'
     },

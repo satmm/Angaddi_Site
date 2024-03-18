@@ -9,7 +9,7 @@
 ## பொருட்களை எவ்வாறு சேர்ப்பது <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
 </div>
 
 உங்கள் கடையின் சரக்குகளில் பொருட்களைச் சேர்ப்பது அங்காடிஆப் மூலம் விரைவாகவும் எளிதாகவும் இருக்கும். வெறுமனே இந்த படிகளைப் பின்பற்றவும்ஃ
@@ -23,7 +23,7 @@
 ## பில்களை உருவாக்குவது எப்படி <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
 </div>
 
 உங்கள் வாடிக்கையாளர்களுக்காக பில்களை உருவாக்குவது அங்கடிஆப் மூலம் ஒரு காற்றோட்டமாக இருக்கிறது. அது எப்படி என்பது இங்கேஃ
@@ -42,7 +42,7 @@
 <br>
 
 
-<img src="\.vitepress\assets\7.jpeg" width="250" height="50">
+<img src="/.vitepress/assets/7.jpeg" width="250" height="50">
 
 **பணம் செலுத்திய பிறகு பிரிண்டர் ஐகானைக் கிளிக் செய்து, பின்னர் சாதனத்தை பில்லிங் மெஷினுடன் இணைக்கவும். இறுதியாக நீங்கள் மசோதாவைப் பெறுவீர்கள்.**
 

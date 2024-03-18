@@ -10,7 +10,7 @@ The AngadiApp app is designed to simplify the process of managing your shop's in
 <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
 </div>
 
 Adding items to your shop's inventory is quick and easy with AngadiApp. Simply follow these steps:
@@ -25,7 +25,7 @@ Adding items to your shop's inventory is quick and easy with AngadiApp. Simply f
 <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
 </div>
 
 Generating bills for your customers is a breeze with AngadiApp. Here's how:
@@ -42,7 +42,7 @@ Generating bills for your customers is a breeze with AngadiApp. Here's how:
 <br>
 
 
-<img src="\.vitepress\assets\7.jpeg" width="250" height="50">
+<img src="/.vitepress/assets/7.jpeg" width="250" height="50">
 
 **once the payment is done click on the printer icon, and then pair the device with the Billing Machine . Finally you will recive the bill.**
 

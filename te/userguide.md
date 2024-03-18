@@ -10,7 +10,7 @@
 <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
 </div>
 
 అంగడి యాప్ తో మీ దుకాణం యొక్క జాబితాకు వస్తువులను జోడించడం త్వరితంగా మరియు సులభంగా ఉంటుంది. కేవలం ఈ దశలను అనుసరించండిః
@@ -24,7 +24,7 @@
 ## బిల్లులను ఎలా తయారు చేయాలి <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
 </div>
 
 
@@ -42,7 +42,7 @@
 <br>
 
 
-<img src="\.vitepress\assets\7.jpeg" width="250" height="50">
+<img src="/.vitepress/assets/7.jpeg" width="250" height="50">
 
 **చెల్లింపు పూర్తయిన తర్వాత ప్రింటర్ ఐకాన్పై క్లిక్ చేసి, ఆపై పరికరాన్ని బిల్లింగ్ మెషీన్తో జత చేయండి. చివరగా మీరు బిల్లును అందుకుంటారు.**
 

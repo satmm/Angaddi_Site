@@ -9,7 +9,7 @@
 ## ഇനങ്ങൾ എങ്ങനെ ചേർക്കാം <br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/add_item.gif" alt="Add Items" style="width: 100%; height: 100%;">
 </div>
 
 നിങ്ങളുടെ കടയുടെ ഇൻവെന്ററിയിലേക്ക് ഇനങ്ങൾ ചേർക്കുന്നത് അംഗഡി ആപ്പ് ഉപയോഗിച്ച് വേഗത്തിലും എളുപ്പത്തിലുമാണ്. ലളിതമായി ഈ ഘട്ടങ്ങൾ പാലിക്കുകഃ
@@ -23,7 +23,7 @@
 ## ബില്ലുകൾ എങ്ങനെ സൃഷ്ടിക്കാം<br>
 
 <div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src="\.vitepress\assets\make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
+  <img src="/.vitepress/assets/make_bill.gif" alt="Generate Bills" style="width: 100%; height: 100%;">
 </div>
 
 
@@ -40,7 +40,7 @@
 ## ബിൽ എങ്ങനെ പ്രിന്റ് ചെയ്യാം <br>
 
 
-<img src="\.vitepress\assets\7.jpeg" width="250" height="50">
+<img src="/.vitepress/assets/7.jpeg" width="250" height="50">
 
 **പേയ്മെന്റ് പൂർത്തിയായിക്കഴിഞ്ഞാൽ പ്രിന്റർ ഐക്കണിൽ ക്ലിക്കുചെയ്യുക, തുടർന്ന് ഉപകരണം ബില്ലിംഗ് മെഷീനുമായി ജോടിയാക്കുക. ഒടുവിൽ നിങ്ങൾക്ക് ബിൽ ലഭിക്കും.**
 

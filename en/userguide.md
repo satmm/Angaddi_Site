@@ -48,28 +48,6 @@ Generating bills for your customers is a breeze with AngadiApp. Here's how:
 
 
 
-
-
-
-## Handling Returned Items with AngadiApp
-
-Do you know how to handle returned items after they have been sold? AngadiApp simplifies this process for you.
-
-1. **Navigate to the Sales Page**
-2. **Select the Bill for Return**
-3. **Click on "Copy Basket"**
-4. **Adjust the Bill**
-5. **Reprint the Bill**
-
-
-
-<div style="width: 250px; height: 500px; overflow: hidden;">
-  <img src=".vitepress\assets\returned_items_bill.gif" alt="Returned Items Bills" style="width: 100%; height: 100%;">
-</div>
-
-AngadiApp's user-friendly interface and streamlined processes make handling returned items easy, allowing you to maintain customer satisfaction while efficiently managing transactions.
-
-
 With AngadiApp, managing your shop's inventory and generating bills has never been easier. Try it out today and experience the difference!
 
 ## Support

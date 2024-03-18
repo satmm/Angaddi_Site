@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "<span style=color:orange !important;>ಆಂಗಡಿApp</span>"
+  name: "<span style=color:orange !important;>AngadiApp</span>"
   text: "ಭಾರತದ #1 <span style=color:rgb(230,131,0);>ಮಳೆ ಬಣ್ಣದ ಮಾರಾಟ</span> ಮೊಬೈಲ್ ಆ್ಯಪ್‌"
   tagline: "ನಿಮ್ಮ ದುಕಾಣವನ್ನು ಸುಲಭವಾಗಿ ಮೊಬೈಲ್‌ನಲ್ಲಿ ಡಿಜಿಟೈಸ್ ಮಾಡಿ!"
   image: "/logo.png"

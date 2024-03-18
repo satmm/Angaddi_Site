@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Download the app
-      link: https://stage.angadiapp.in/
+      link: /markdown-examples
     - theme: alt
       text: Read User guide
       link: /api-examples

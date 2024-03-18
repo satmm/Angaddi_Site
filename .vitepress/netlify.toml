@@ -1,0 +1,35 @@
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/kn/*"
+  to = "/kn/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/hi/*"
+  to = "/hi/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/te/*"
+  to = "/te/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/ta/*"
+  to = "/ta/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/ml/*"
+  to = "/ml/:splat"
+  status = 302
+  force = true

@@ -1,3 +1,7 @@
+<script setup>
+  import ImageDescription from './Components/ImageDescription.vue';
+  </script>
+
 # User Guide
 
 Welcome to the AngadiApp User Guide! Here, we'll provide you with a comprehensive overview of how to effectively use the AngadiApp app to manage your shop's inventory and streamline your billing process.
@@ -38,8 +42,14 @@ Generating bills for your customers is a breeze with AngadiApp. Here's how:
 6. Provide the bill to your customer for payment.
 
 
+
+
+
+
 ## How to Print Bill
 <br>
+
+
 
 
 <img src="/.vitepress/assets/7.jpeg" width="250" height="50">
@@ -68,6 +78,9 @@ Do you know how to handle returned items after they have been sold? AngadiApp si
 </div>
 
 AngadiApp's user-friendly interface and streamlined processes make handling returned items easy, allowing you to maintain customer satisfaction while efficiently managing transactions.
+
+
+
 
 
 With AngadiApp, managing your shop's inventory and generating bills has never been easier. Try it out today and experience the difference!

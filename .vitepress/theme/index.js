@@ -1,10 +1,15 @@
-// .vitepress/theme/index.js
+// index.js
+
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 
-import Layout from './Layout.vue'
+// Import your Vue component(s) here
+import Cards from '../../Components/Cards.vue'
 
 export default {
-  extends: DefaultTheme,
-  Layout
+  ...DefaultTheme,
+  enhanceApp({ app }) {
+    // Register your Vue component(s)
+    app.component('Cards', Cards)
+  }
 }

@@ -1,5 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 
 hero:
@@ -16,32 +17,32 @@ hero:
       link: /api-examples
 
 features:
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/increase.png"}
     title: Parallel sales
     details: Supports multiple baskets to create sales parallely with ease
      
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/scan.png"}
     title: Scanner on mobile
     details: Ability to scan QR codes and barcodes
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/receipt.png"}
     title: Receipt printing
     details: Ability to print sale receipts on bluetooth/USB based portable printers
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/share.png"}
     title: Receipt sharing
     details: Ability to share receipt via Whatsapp, SMS, or any other recevable apps
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/qr-code.png"}
     title: Dynamic UPI QR Code
     details: Can generate QR codes with pre-filled amount and the account
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/track.png"}
     title: Product Inventory
     details: Easy to create products and set its price, stock and expiry
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/dashboard.png"}
     title: Reports
     details: Reports on Sales, Movements and Payments
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/customer-support.png"}
     title: Customer contacts
     details: Easy to create customer contacts
-  - icon: {src: "/assets/logo.png"}
+  - icon: {src: "/.vitepress/assets/support.png"}
     title: Support
     details: 24x7 support whatsapp based support for any issues
 ---

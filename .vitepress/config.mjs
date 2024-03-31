@@ -88,7 +88,7 @@
 
 import { defineConfig } from 'vitepress'
 
-const lang = 'en';
+const lang = 'kn';
 
 export default defineConfig({
   

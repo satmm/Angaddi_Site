@@ -1,16 +1,19 @@
 
-import { defineConfig } from 'vitepress';
 
+import { defineConfig } from 'vitepress'
+
+const lang = 'kn';
 
 export default defineConfig({
+  
   title: 'AngadiApp',
   description: 'Point of Sale Mobile App for small shops',
-  lang: 'kn',
+  lang, // Add this line to set the default language for the entire website
   locales: {
     root: {
       label: 'English',
       lang: 'en',
-      link: '/en'
+      // default: true,
     },
     kn: {
       label: 'ಕನ್ನಡ',
@@ -44,20 +47,20 @@ export default defineConfig({
       provider: 'local'
     },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'User guide', link: '/userguide.html' },
-      { text: 'FAQ', link: '/faq.html' },
-      { text: 'Blogs', link: '/blogs.html' },
-      { text: 'About us', link: '/about.html' },
-      { text: 'Privacy', link: '/privacy.html' },
-      { text: 'T&C', link: '/tnc.html' },
+      { text: 'Home', link: `/` },
+      { text: 'User guide', link: `/userguide.html` },
+      { text: 'FAQ', link: `/faq.html` },
+      { text: 'Blogs', link: `/blogs.html` },
+      { text: 'About us', link: `/about.html` },
+      { text: 'Privacy', link: `/privacy.html` },
+      { text: 'T&C', link: `/tnc.html` },
     ],
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples.html' },
-          { text: 'Runtime API Examples', link: '/api-examples.html' }
+          { text: 'Markdown Examples', link: `/markdown-examples.html` },
+          { text: 'Runtime API Examples', link: `/api-examples.html` }
         ]
       }
     ],
@@ -72,5 +75,4 @@ export default defineConfig({
       copyright: 'Copyright © 2018-present <a style="text-decoration:none;color:rgb(52, 81, 178);" href="https://www.penzigo.com">Penzigo Technology Solutions Pvt Ltd</a>'
     }
   },
-  
-});
+})

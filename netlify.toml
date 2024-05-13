@@ -1,0 +1,24 @@
+[[redirects]]
+  from = "/kn/*"
+  to = "/kn/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/hi/*"
+  to = "/hi/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/te/*"
+  to = "/te/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/ta/*"
+  to = "/ta/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/ml/*"
+  to = "/ml/index.html"
+  status = 200
